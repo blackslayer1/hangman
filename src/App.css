@@ -1,0 +1,21 @@
+body{
+  background: rgb(66, 0, 128);
+  text-align: center;
+  margin-top: 200px;
+  color: white;
+  font-weight: bold;
+}
+
+h1{
+  margin-bottom: 10px;
+}
+
+input{
+  font-size: 40px;
+}
+
+.totalWins{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
